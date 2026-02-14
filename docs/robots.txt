@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garminexpress.readthedocs.io/en/latest/
